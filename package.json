@@ -1,0 +1,17 @@
+{
+  "name": "playpulse",
+  "version": "1.0.0",
+  "description": "video streaming application developement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascrict",
+    "node",
+    "express",
+    "playpulse"
+  ],
+  "author": "akshay",
+  "license": "ISC"
+}
